@@ -2,7 +2,7 @@
     "TYPES": {
         "Actor": {
             "vampire": "Вампир",
-            "ghoul": "Гуль",
+            "ghoul": "Упырь",
             "mortal": "Смертный",
             "hunter": "Охотник",
             "werewolf": "Оборотень",
@@ -13,7 +13,7 @@
             "boon": "Долг",
             "customRoll": "Уникальная проверка",
             "feature": "Преимущества",
-            "gift": "дара",
+            "gift": "Дар",
             "perk": "Улучшение",
             "power": "Дисциплина"
         }
@@ -53,7 +53,7 @@
             "SelectRoll": "Сформируйте проверку",
             "Success": "Успех",
             "Successes": "Успехов",
-            "CriticalSuccess": "Триумф",
+            "CriticalSuccess": "Критический успех",
             "Fail": "Провал",
             "Modifier": "Модификатор",
             "Difficulty": "Сложность",
@@ -97,9 +97,9 @@
         },
 
         "Damage": {
-            "Superficial": "Лёгкий",
-            "Aggravated": "Тяжёлый",
-            "Stains": "Сомнения",
+            "Superficial": "Поверхностный",
+            "Aggravated": "Летальный",
+            "Stains": "Пятна",
             "Max": "Максимум"
         },
 
@@ -117,14 +117,14 @@
             "Label": "Характеристика",
             "Attributes": "Характеристики",
             "Strength": "Сила",
-            "Charisma": "Обаяние",
+            "Charisma": "Харизма",
             "Intelligence": "Интеллект",
             "Dexterity": "Ловкость",
             "Manipulation": "Манипуляция",
             "Wits": "Смекалка",
             "Stamina": "Выносливость",
             "Composure": "Самообладание",
-            "Resolve": "Упорство"
+            "Resolve": "Решительность"
         },
 
         "SkillsList": {
@@ -133,11 +133,11 @@
             "Specialty": "Специализация",
             "Specialties": "Специализации",
             "Athletics": "Атлетика",
-            "AnimalKen": "Обращение с животными",
+            "AnimalKen": "Дрессировка",
             "Academics": "Гуманитарные науки",
-            "Brawl": "Драка",
+            "Brawl": "Борьба",
             "Etiquette": "Этикет",
-            "Awareness": "Наблюдательность",
+            "Awareness": "Внимательность",
             "Craft": "Ремесло",
             "Insight": "Проницательность",
             "Finance": "Финансы",
@@ -154,8 +154,8 @@
             "Persuasion": "Убеждение",
             "Politics": "Политика",
             "Stealth": "Скрытность",
-            "Streetwise": "Уличное чутьё",
-            "Science": "Естественные науки",
+            "Streetwise": "Знание улиц",
+            "Science": "Точные науки",
             "Survival": "Выживание",
             "Subterfuge": "Хитрость",
             "Technology": "Техника"
